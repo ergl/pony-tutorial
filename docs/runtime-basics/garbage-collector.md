@@ -1,12 +1,4 @@
----
-title: "Garbage Collector"
-section: "Runtime Basics"
-menu:
-  toc:
-    parent: "runtime-basics"
-    weight: 15
-toc: true
----
+# Garbage Collector
 
 Pony uses a fully concurrent garbage collector called ORCA (yes, the _killer whale)_, which stands for **O**wnership and **R**eference **C**ounting-based Garbage collection in the **A**ctor World.
 

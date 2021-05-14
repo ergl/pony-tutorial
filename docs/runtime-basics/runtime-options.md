@@ -1,12 +1,4 @@
----
-title: "Runtime Options"
-section: "Runtime Basics"
-menu:
-  toc:
-    parent: "runtime-basics"
-    weight: 35
-toc: true
----
+# Runtime Options
 
 The Pony runtime is configurable on execution via the `pony-*` commandline options. These include options to change how thread scaling is handled, deferring GC until a memory-usage threshold, and not yielding a thread for a current lack of work.
 

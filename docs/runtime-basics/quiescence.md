@@ -1,12 +1,4 @@
----
-title: "Quiescence"
-section: "Runtime Basics"
-menu:
-  toc:
-    parent: "runtime-basics"
-    weight: 25
-toc: true
----
+# Quiescence
 
 Quiescence is perhaps a term you are unfamiliar with unless you have worked with actor systems previously. In short, quiescence is the state of being calm or otherwise inactive. In Pony, individual actors as well as the program can be quiescent.
 
